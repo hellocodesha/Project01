@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Module01/Module01.iml" filepath="$PROJECT_DIR$/Module01/Module01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project01.iml" filepath="$PROJECT_DIR$/Project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-test/git-test.iml" filepath="$PROJECT_DIR$/git-test/git-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/demo/mavendemo/mavendemo.iml" />
     </modules>
   </component>
 </project>
